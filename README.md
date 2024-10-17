@@ -19,7 +19,7 @@ Digitar o comando abaixo para rodar o container:
 docker run -it --rm --name casa-eventos -p 5173:5173 -p 3000:3000 eventos
 ```
 
-O container será excluido ao pausar a execução devido a flag `--rm`, retire se quiser que o container permaneça.
+Obs.: *O container será excluido ao pausar a execução devido a flag `--rm`, retire se quiser que o container permaneça.*
 
 # Publicação da imagem
 
