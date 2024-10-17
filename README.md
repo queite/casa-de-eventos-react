@@ -1,6 +1,12 @@
 # Conteinerização de app
 
-[Documentação original do App](./README-app.md)
+## Documentação
+
+Visualize as instruções do projeto [aqui](./README-project.md).
+
+Visualize a documentação original do app [aqui](./README-app.md).
+
+## Conteinerização
 
 Digitar o comando abaixo para criar a imagem:
 
@@ -17,4 +23,4 @@ O container será excluido ao pausar a execução devido a flag `--rm`, retire s
 
 # Publicação da imagem
 
-[Link da imagem no docker hub](https://hub.docker.com/r/queite/casa-eventos)
+Imagem publicada no [Docker Hub](https://hub.docker.com/r/queite/casa-eventos).
